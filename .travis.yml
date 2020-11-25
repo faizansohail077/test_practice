@@ -10,7 +10,7 @@ scripts:
 deploy:
   provider: surge
   skip_cleanip: true
-  domain: test_practice.surge.sh
+  domain: spiteful-idea.surge.sh
   project: ./build/
 
 on:
